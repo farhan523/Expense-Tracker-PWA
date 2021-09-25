@@ -9,7 +9,7 @@ const Balance: FC = () => {
 
     return (
         <div>
-            <h4>Your Balance</h4>
+            <h4>Your Balancese</h4>
             <h5>$ {balance?.reduce((previousValue, currentValue) => {
                 return previousValue + currentValue
             }, 0)}</h5>
