@@ -2,7 +2,7 @@
 
 ## Technologies Used
 
-_**HTML **_
+_** HTML **_
 _**CSS **_
 _ **JAVASCRPT **_
  _**REACT**_
